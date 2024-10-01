@@ -28,4 +28,6 @@ pip install numpy matplotlib
 
 ## Output
 
-![Output](schelling.png)
+<div style="text-align: center;">
+  <img src="schelling.png" alt="Output" />
+</div>
