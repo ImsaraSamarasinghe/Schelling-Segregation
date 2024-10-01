@@ -24,3 +24,8 @@ You can install the required libraries using the following command:
 
 ```bash
 pip install numpy matplotlib
+```
+
+## Output
+
+![Output](schelling.png)
